@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/fabrizio-ortenzi-2bb893257/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="discordapp.com/users/834120871643578408" target="_blank">
+  <a href="https://discordapp.com/users/834120871643578408" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
 </div>
@@ -19,15 +19,15 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👨🏼‍💻 About Me</h3>
 
 ###
 
-<p align="left">I'm Fabrizio from Argentina<br><br>- 📚 I'm currently studying Systems Engineering<br>- ⚡ I like Fullstack Web Development and I'm curious about new concepts and technologies</p>
+<p align="left">I'm Fabrizio from Rosario, Argentina<br><br>- 📚 I'm currently studying Information Systems Engineering<br>- ⚡ I like Fullstack Web Development and I'm curious about new concepts and technologies</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Languages and tools</h3>
 
 ###
 
@@ -68,13 +68,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=fabriortenzi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fabriortenzi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=fabriortenzi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=fabriortenzi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fabriortenzi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
