@@ -1,82 +1,19 @@
-<div align="center">
-  <img height="150" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"  />
-</div>
+# Hey, I'm Fabrizio 👋
 
-###
+Software Engineer building full-stack products and exploring how AI is changing the way we design, build, and ship software.
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/fabrizio-ortenzi-2bb893257/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://discordapp.com/users/834120871643578408" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-</div>
+I mostly work with **TypeScript, React, and Node.js**, and lately I've been going deeper into **AI-assisted engineering, developer tooling, system design, and distributed systems** — always trying to move faster without losing the fundamentals that make software maintainable.
 
-###
+### What I'm up to
 
-<h1 align="center">Hello world!👋</h1>
+* 🥭 Building **Mango**, a personal project where I experiment with modern full-stack architecture and AI-assisted development workflows.
+* 📈 Working with a small team on a **financial markets project**.
+* 🤖 Exploring **AI engineering and coding agents**, especially how they fit into real software engineering workflows.
+* 📚 Currently reading and studying software design, distributed systems, and AI engineering.
+* ☕ Probably doing all of the above with an espresso and a terminal open.
 
-###
+### Tools I enjoy
 
-<h3 align="left">👨🏼‍💻 About Me</h3>
+`TypeScript` · `React` · `Node.js` · `Next.js` · `Bun` · `PostgreSQL` · `Firebase`
 
-###
-
-<p align="left">I'm Fabrizio from Rosario, Argentina<br><br>- 📚 I'm studying Information Systems Engineering<br>- 👨🏻‍💻 I work as a Software Engineer with React Native and Express <br>- ⚡ I like Fullstack Web Development and I'm curious about new concepts and technologies</p>
-
-###
-
-<h3 align="left">🛠 Languages and tools</h3>
-
-###
-
-<div align="center">
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/express/000000" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/angular/DD0031" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fabriortenzi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=fabriortenzi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fabriortenzi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/fabriortenzi/fabriortenzi/output/snake.svg" alt="Snake animation" />
-
-###
+`Docker` · `GitHub Actions` · `Git` · `Neovim` · `Herdr` · `AI coding agents`
